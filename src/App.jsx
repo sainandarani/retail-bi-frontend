@@ -1,7 +1,9 @@
-import Dashboard from "./pages/Dashboard";
+import Dashboard from "./pages/Dashboard.jsx";
 
 function App() {
-  return <Dashboard />;
+  return (
+    <h1>RETAIL BI DASHBOARD</h1>
+  );
 }
 
 export default App;
